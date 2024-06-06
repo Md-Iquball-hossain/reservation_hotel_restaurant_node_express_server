@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"version":3,"file":"invoiceModel.js","sourceRoot":"","sources":["../../../src/models/invoiceModel/invoiceModel.ts"],"names":[],"mappings":";AAAA,eAAe;;;;;AAGf,8EAAsD;AAEtD,MAAM,YAAa,SAAQ,gBAAM;IAE/B,YAAY,EAAO;QACjB,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,EAAE,GAAG,EAAE,CAAC;IACf,CAAC;CACF;AAED,kBAAe,YAAY,CAAC"}
+=======
+{"version":3,"file":"invoiceModel.js","sourceRoot":"","sources":["../../../src/models/invoiceModel/invoiceModel.ts"],"names":[],"mappings":";AAAA,eAAe;;;;;AAGf,8EAAsD;AAElD,MAAM,YAAa,SAAQ,gBAAM;IAEjC,YAAY,EAAO;QACf,KAAK,EAAE,CAAC;QACR,IAAI,CAAC,EAAE,GAAG,EAAE,CAAC;IACjB,CAAC;CACJ;AAED,kBAAe,YAAY,CAAC"}
+>>>>>>> 354c694396c32f4f998ddf45c95d57a55e9ba0c6

@@ -1,0 +1,1 @@
+{"version":3,"file":"common.abstract.router.js","sourceRoot":"","sources":["../../../src/common/commonAbstract/common.abstract.router.ts"],"names":[],"mappings":";;;;;AAAA,qCAAiC;AACjC,+EAAuD;AACvD,oFAA4D;AAE5D,MAAM,oBAAoB;IAA1B;QACS,WAAM,GAAG,IAAA,gBAAM,GAAE,CAAC;QAClB,oBAAe,GAAG,IAAI,yBAAe,EAAE,CAAC;QACxC,aAAQ,GAAG,IAAI,kBAAQ,EAAE,CAAC;IACnC,CAAC;CAAA;AAED,kBAAe,oBAAoB,CAAC"}
